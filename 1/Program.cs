@@ -6,13 +6,15 @@ Console.Write("Введите второе число:");
 int y = int.Parse(Console.ReadLine());
 Console.Write("Введите третье число:");
 int z = int.Parse(Console.ReadLine());
+
 int max = x;
+
 if(max < y) 
     {
         max = y;
     }
 
-if (z > max)
+if (max < z)
     {
         max = z;
     }
