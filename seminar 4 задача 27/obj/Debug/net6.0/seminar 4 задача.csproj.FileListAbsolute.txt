@@ -1,0 +1,15 @@
+C:\Users\emiln\projects\homework\seminar 4 задача\bin\Debug\net6.0\seminar 4 задача.exe
+C:\Users\emiln\projects\homework\seminar 4 задача\bin\Debug\net6.0\seminar 4 задача.deps.json
+C:\Users\emiln\projects\homework\seminar 4 задача\bin\Debug\net6.0\seminar 4 задача.runtimeconfig.json
+C:\Users\emiln\projects\homework\seminar 4 задача\bin\Debug\net6.0\seminar 4 задача.dll
+C:\Users\emiln\projects\homework\seminar 4 задача\bin\Debug\net6.0\seminar 4 задача.pdb
+C:\Users\emiln\projects\homework\seminar 4 задача\obj\Debug\net6.0\seminar 4 задача.csproj.AssemblyReference.cache
+C:\Users\emiln\projects\homework\seminar 4 задача\obj\Debug\net6.0\seminar 4 задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emiln\projects\homework\seminar 4 задача\obj\Debug\net6.0\seminar 4 задача.AssemblyInfoInputs.cache
+C:\Users\emiln\projects\homework\seminar 4 задача\obj\Debug\net6.0\seminar 4 задача.AssemblyInfo.cs
+C:\Users\emiln\projects\homework\seminar 4 задача\obj\Debug\net6.0\seminar 4 задача.csproj.CoreCompileInputs.cache
+C:\Users\emiln\projects\homework\seminar 4 задача\obj\Debug\net6.0\seminar 4 задача.dll
+C:\Users\emiln\projects\homework\seminar 4 задача\obj\Debug\net6.0\refint\seminar 4 задача.dll
+C:\Users\emiln\projects\homework\seminar 4 задача\obj\Debug\net6.0\seminar 4 задача.pdb
+C:\Users\emiln\projects\homework\seminar 4 задача\obj\Debug\net6.0\seminar 4 задача.genruntimeconfig.cache
+C:\Users\emiln\projects\homework\seminar 4 задача\obj\Debug\net6.0\ref\seminar 4 задача.dll
