@@ -26,6 +26,7 @@ int Newarray (int [] array)
     }
     return even;
 }
+
 Console.WriteLine("Введите длину массива:");
 int a = int.Parse(Console.ReadLine()!);
 int[] array = GetArray(a);

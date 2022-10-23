@@ -13,6 +13,7 @@ double[] GetArray (int size)
     return res;
 }
 
+
 double GetSub (double [] array)
 {
     double max = array[0];

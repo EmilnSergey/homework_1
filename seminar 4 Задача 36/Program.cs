@@ -24,6 +24,7 @@ int GetSum (int [] array)
 
     return sum;
 }
+
 Console.WriteLine("Введите длину массива:");
 int a = int.Parse(Console.ReadLine()!);
 int[] array = GetArray(a);
