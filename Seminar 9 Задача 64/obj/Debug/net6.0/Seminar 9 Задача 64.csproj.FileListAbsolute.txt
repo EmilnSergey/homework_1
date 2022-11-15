@@ -1,0 +1,15 @@
+C:\Users\emiln\projects\homework\Seminar 9 Задача 64\bin\Debug\net6.0\Seminar 9 Задача 64.exe
+C:\Users\emiln\projects\homework\Seminar 9 Задача 64\bin\Debug\net6.0\Seminar 9 Задача 64.deps.json
+C:\Users\emiln\projects\homework\Seminar 9 Задача 64\bin\Debug\net6.0\Seminar 9 Задача 64.runtimeconfig.json
+C:\Users\emiln\projects\homework\Seminar 9 Задача 64\bin\Debug\net6.0\Seminar 9 Задача 64.dll
+C:\Users\emiln\projects\homework\Seminar 9 Задача 64\bin\Debug\net6.0\Seminar 9 Задача 64.pdb
+C:\Users\emiln\projects\homework\Seminar 9 Задача 64\obj\Debug\net6.0\Seminar 9 Задача 64.csproj.AssemblyReference.cache
+C:\Users\emiln\projects\homework\Seminar 9 Задача 64\obj\Debug\net6.0\Seminar 9 Задача 64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emiln\projects\homework\Seminar 9 Задача 64\obj\Debug\net6.0\Seminar 9 Задача 64.AssemblyInfoInputs.cache
+C:\Users\emiln\projects\homework\Seminar 9 Задача 64\obj\Debug\net6.0\Seminar 9 Задача 64.AssemblyInfo.cs
+C:\Users\emiln\projects\homework\Seminar 9 Задача 64\obj\Debug\net6.0\Seminar 9 Задача 64.csproj.CoreCompileInputs.cache
+C:\Users\emiln\projects\homework\Seminar 9 Задача 64\obj\Debug\net6.0\Seminar 9 Задача 64.dll
+C:\Users\emiln\projects\homework\Seminar 9 Задача 64\obj\Debug\net6.0\refint\Seminar 9 Задача 64.dll
+C:\Users\emiln\projects\homework\Seminar 9 Задача 64\obj\Debug\net6.0\Seminar 9 Задача 64.pdb
+C:\Users\emiln\projects\homework\Seminar 9 Задача 64\obj\Debug\net6.0\Seminar 9 Задача 64.genruntimeconfig.cache
+C:\Users\emiln\projects\homework\Seminar 9 Задача 64\obj\Debug\net6.0\ref\Seminar 9 Задача 64.dll
